@@ -1,3 +1,8 @@
 /* You can add global styles to this file, and also import other style files */
 @use './app/scss/reset.scss';
-@use './app/scss/tipography.scss';
+@use './app/scss/typography.scss';
+
+$base-color: #1E2139;
+$accent-color: #252945;
+$accent-color-light: #7E88C3;
+$neutral-color: #DFE3FA;
